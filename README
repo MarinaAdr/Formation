@@ -1,0 +1,13 @@
+Pour tester l'api
+url: http://127.0.0.1/Formation
+
+Pour lancer l'application 
+-lancer votre serveur local xampp ou lampp
+-lancer apache et mysql
+
+Importer la base de donnees 
+"gestion.sql" dans phpmyadmin
+
+Dans votre navigateur 
+-localhost/Formation/index.php
+
